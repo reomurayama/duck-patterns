@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Standard",
+    "grid": [
+      "W B W",
+      "W W O",
+      "O W W"
+    ]
+  },
+  {
+    "name": "Simple",
+    "grid": [
+      "W B",
+      "W O"
+    ]
+  },
+  {
+    "name": "Hesoten",
+    "grid": [
+      "O B O",
+      "O W W",
+      "W O O"
+    ]
+  },
+  {
+    "name": "Moguri",
+    "grid": [
+      "W W W",
+      "W B W",
+      "O W O"
+    ]
+  }
+]
