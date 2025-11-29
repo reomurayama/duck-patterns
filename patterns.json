@@ -29,5 +29,12 @@
       "W B W",
       "O W O"
     ]
+  },
+  {
+    "name": "Test",
+    "grid": [
+      "W W",
+      "W W"
+    ]
   }
 ]
