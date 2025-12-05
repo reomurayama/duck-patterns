@@ -31,10 +31,11 @@
     ]
   },
   {
-    "name": "Test",
+    "name": "Shiratama",
     "grid": [
-      "W W",
-      "W W"
+      "W W W",
+      "W W W",
+      "W W W"
     ]
   }
 ]
