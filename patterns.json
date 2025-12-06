@@ -1,17 +1,17 @@
 [
   {
+    "name": "Simple",
+    "grid": [
+      "W B",
+      "W O"
+    ]
+  },
+  {
     "name": "Standard",
     "grid": [
       "W B W",
       "W W O",
       "O W W"
-    ]
-  },
-  {
-    "name": "Simple",
-    "grid": [
-      "W B",
-      "W O"
     ]
   },
   {
@@ -36,6 +36,15 @@
       "W W W",
       "W W W",
       "W W W"
+    ]
+  },
+  {
+    "name": "Kubikasige",
+    "grid": [
+      "W W B W",
+      "W O W W",
+      "B W W W",
+      "W O W O"
     ]
   }
 ]
