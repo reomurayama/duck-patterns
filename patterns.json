@@ -39,12 +39,29 @@
     ]
   },
   {
+    "name": "Shitakaramita",
+    "grid": [
+      "W W O",
+      "O W W",
+      "W O W"
+    ]
+  },
+  {
     "name": "Kubikasige",
     "grid": [
       "W W B W",
       "W O W W",
       "B W W W",
       "W O W O"
+    ]
+  },
+  {
+    "name": "Doappu",
+    "grid": [
+      "W W W W",
+      "B W W B",
+      "W O O W",
+      "W W W W"
     ]
   }
 ]
